@@ -1,6 +1,5 @@
-package in.org.app;
+package in.org.app.dependent;
 
-import in.org.app.independent.bo.User;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
